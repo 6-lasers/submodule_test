@@ -1,0 +1,4 @@
+[submodule "subm"]
+	path = subm
+	url = https://github.com/6-lasers/Meowth.git
+    shallow = true
